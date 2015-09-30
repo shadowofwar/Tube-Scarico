@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TubeScarico.iml" filepath="$PROJECT_DIR$/TubeScarico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tube-Scarico.iml" filepath="$PROJECT_DIR$/Tube-Scarico.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
